@@ -1,4 +1,4 @@
-<h2>CastagnaIT Repository for Kodi addons</h2>
+<h2>Modifed for Kodi filemanger source > https://serpentdrago.github.io/repository.castagnait/ CastagnaIT Repository for Kodi addons</h2>
 <a href="https://github.com/castagnait/repository.castagnait/raw/master/repository.castagnait-1.0.0.zip">Installation link [repository.castagnait-1.0.0.zip]</a><br/>
 <hr/>
 Content of the repository:
